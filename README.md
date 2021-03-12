@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdrag08&show_icons=true&theme=merko)
+[![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=weirdrag08&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
