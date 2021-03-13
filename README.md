@@ -1,5 +1,5 @@
 # Welcome 😎
-<img width ="100%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/animated-welcome-image-0112.gif" alt= "Welcome"/>
+<img width ="60%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/animated-welcome-image-0112.gif" alt= "Welcome"/>
 <!--
 **weirdrag08/weirdrag08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
