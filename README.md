@@ -48,16 +48,17 @@ Here are some ideas to get you started:
 
 ### Technical Skills
 
-<code><img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/html-5.png"/></code>
-<code><img src="https://img.icons8.com/color/96/000000/css3.png"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/javascript.svg" title="JavaScript"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/php.svg" title="PHP"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/bootstrap.png" title="Bootstrap"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/jquery.png" title="JQuery"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/mysql.svg" title="MySQL"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/sass.svg" title="SaaS"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/python.svg" title="Python"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/c-programming.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/python.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/php-server.png"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/bootstrap.png"/></code>
+<code><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></code>
+<code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/object.png"/></code>
 
 
 <hr>
