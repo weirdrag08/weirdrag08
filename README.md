@@ -1,12 +1,16 @@
 # Welcome 😎
-<img width ="60%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/>
-<p>  NSUT '23 COE💻. 🎗️ <br>
+<div>
+  <span><img width ="60%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
+  <span><p>  NSUT '23 COE💻. 🎗️ <br>
 BADMINTON ♥️❤️ <br>
 age =0; // as on year 2000 <br>
 while(date == 08 Aug) { <br>
 age++; <br>
 } <br>
-Most used emoji - ❤️😂✌🏻💙</p>
+Most used emoji - ❤️😂✌🏻💙</p></span>
+</div>
+
+
 <!--
 <img width ="60%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/animated-welcome-image-0112.gif" alt= "Welcome"/>
 **weirdrag08/weirdrag08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
