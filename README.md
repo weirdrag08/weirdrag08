@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdrag08&show_icons=true&theme=merko)
+<h2>Contributions:</h2>
+
+<br>
+<a href="https://github-readme-stats.vercel.app/api?username=weirdrag08&show_icons=true&theme=merko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weirdrag08&show_icons=true&theme=merko" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrag08&langs_count=10&theme=merko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrag08&langs_count=10&theme=merko" />
+</a>
+
 ![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=weirdrag08&theme=react-dark)
 
 
