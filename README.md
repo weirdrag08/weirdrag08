@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/></code>
-<code><img src="https://img.icons8.com/color/50/000000/php-server.png"/></code>
+<code><img src="https://img.icons8.com/dusk/64/4a90e2/php-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/bootstrap.png"/></code>
-<code><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></code>
+<code><img src="https://img.icons8.com/ios-filled/50/26e07f/jquery.png"/></code>
 <code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code>
 <code><img src="https://img.icons8.com/color/48/fa314a/object.png"/></code>
 
