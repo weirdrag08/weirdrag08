@@ -46,20 +46,23 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-### Technical Skills
+<h2>Technical Skills</h2>
 
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/fa314a/c-programming.png"/></code>
 <code><img src="https://img.icons8.com/color/48/fa314a/python.png"/></code>
+<code><img src="https://img.icons8.com/color/32/000000/git.png"/></code>
+<code><img src="https://img.icons8.com/color/32/000000/github.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/></code>
 <code><img src="https://img.icons8.com/dusk/64/4a90e2/php-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/50/000000/bootstrap.png"/></code>
 <code><img src="https://img.icons8.com/ios-filled/50/26e07f/jquery.png"/></code>
+<code><img src="https://img.icons8.com/color/64/000000/react-native.png"/></code>
 <code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code>
 <code><img src="https://img.icons8.com/color/48/fa314a/object.png"/></code>
 
 
 <hr>
-### Contact Me?
+<h2>Contact Me?</h2>
