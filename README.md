@@ -1,6 +1,6 @@
 <!-- # Welcome 😎 -->
 <div>
-  <span style="align:center"><img width ="70%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
+  <span style="align:center"><img width ="50%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
   <span style="display: inline; float:left; "><p> Sophmore @ NSUT '23 COE💻. 🎗️ <br>
 BADMINTON ♥️❤️ <br>
 age =0; // as on year 2000 <br>
