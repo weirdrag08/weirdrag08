@@ -1,7 +1,7 @@
-# Welcome 😎
+<!-- # Welcome 😎 -->
 <div>
-  <span style="display: inline; float:left;"><img width ="50%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
-  <span style="display: inline; float:left; "><p>  NSUT '23 COE💻. 🎗️ <br>
+  <span style="display: inline; float:left; align:center"><img width ="50%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
+  <span style="display: inline; float:left; "><p> Sophmore @ NSUT '23 COE💻. 🎗️ <br>
 BADMINTON ♥️❤️ <br>
 age =0; // as on year 2000 <br>
 while(date == 08 Aug) { <br>
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 ![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=weirdrag08&theme=react-dark)
 
+<br>
+<hr>
+<br>
 
 ### Technical Skills
 
@@ -55,3 +58,7 @@ Here are some ideas to get you started:
 <code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/mysql.svg" title="MySQL"/></code>
 <code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/sass.svg" title="SaaS"/></code>
 <code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/python.svg" title="Python"/></code>
+
+
+<hr>
+### Contact Me?
