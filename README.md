@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ### Technical Skills
 
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/c.svg" title="C++"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/html-5.svg" title="HTML5"/></code>
-<code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/css.svg" title="CSS"/></code>
+<code><img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/96/000000/html-5.png"/></code>
+<code><img src="https://img.icons8.com/color/96/000000/css3.png"/></code>
 <code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/javascript.svg" title="JavaScript"/></code>
 <code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/skills/php.svg" title="PHP"/></code>
 <code><img width="40px" src="https://github.com/weirdrag08/Portfolio-DSC/blob/master/images/bootstrap.png" title="Bootstrap"/></code>
