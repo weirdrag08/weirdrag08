@@ -1,7 +1,7 @@
 # Welcome 😎
 <div>
-  <span style="float:left;"><img width ="100%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
-  <span style="float:left; "><p>  NSUT '23 COE💻. 🎗️ <br>
+  <span style="display: inline; float:left;"><img width ="50%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
+  <span style="display: inline; float:left; "><p>  NSUT '23 COE💻. 🎗️ <br>
 BADMINTON ♥️❤️ <br>
 age =0; // as on year 2000 <br>
 while(date == 08 Aug) { <br>
