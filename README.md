@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weirdrag08)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weirdrag08)
 <br>
 <br>
 <br>
