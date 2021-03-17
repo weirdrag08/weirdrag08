@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 <code><img src="https://img.icons8.com/ios-filled/50/26e07f/jquery.png"/></code>
 <code><img src="https://img.icons8.com/color/64/000000/git.png"/></code>
 <code><img src="https://img.icons8.com/color/64/000000/github.png"/></code>
-<!-- <code><img src="https://img.icons8.com/color/64/000000/react-native.png"/></code> -->
-<!-- <code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code> -->
 <code><img src="https://img.icons8.com/color/48/fa314a/object.png"/></code>
 
 
 <hr>
 <h2>Contact Me?</h2>
+<!-- <code><img src="https://img.icons8.com/color/64/000000/react-native.png"/></code> -->
+<!-- <code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code> -->
