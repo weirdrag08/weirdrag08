@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weirdrag08)]
+<br>
+<br>
+<br>
 <h2>Technical Skills</h2>
 
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
