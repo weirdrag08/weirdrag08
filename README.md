@@ -40,12 +40,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrag08&langs_count=10&theme=merko" />
 </a>
 
-![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=weirdrag08&theme=react-dark)
+<br>
+<br>
+<br>
 
-<br>
-<hr>
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weirdrag08)
+
+![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=weirdrag08&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weirdrag08&theme=vision-friendly-dark)
+
 <br>
 <br>
 <br>
