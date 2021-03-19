@@ -10,7 +10,7 @@ age++; <br>
 Most used emoji - ❤️😂✌🏻💙</p></span>
 </div> -->
 
-<p align= "center">
+<p float= "left">
   <code>
     Sophomore @ NSUT '23 COE💻. 🎗️ <br>
     BADMINTON ♥️❤️ <br>
@@ -20,7 +20,7 @@ Most used emoji - ❤️😂✌🏻💙</p></span>
     } <br>
     Most used emoji - ❤️😂✌🏻💙
   </code>
-  <img src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg">
+  <img src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="30%">
 </p>
 
 <!--
