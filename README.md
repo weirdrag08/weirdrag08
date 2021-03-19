@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 
 
 ![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=weirdrag08&theme=react-dark)
+<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weirdrag08&theme=vision-friendly-dark)
 
 <br>
