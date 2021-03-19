@@ -11,7 +11,6 @@ Most used emoji - ❤️😂✌🏻💙</p></span>
 </div> -->
 
 <p float= "left">
-  <code>
     Sophomore @ NSUT '23 COE💻. 🎗️ <br>
     BADMINTON ♥️❤️ <br>
     age =0; // as on year 2000 <br>
@@ -19,7 +18,6 @@ Most used emoji - ❤️😂✌🏻💙</p></span>
     age++; <br>
     } <br>
     Most used emoji - ❤️😂✌🏻💙
-  </code>
   <img src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="30%">
 </p>
 
