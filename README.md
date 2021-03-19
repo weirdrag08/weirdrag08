@@ -9,7 +9,7 @@ age++; <br>
 } <br>
 Most used emoji - ❤️😂✌🏻💙</p></span>
 </div> -->
-
+<img align="right" src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="30%">
 <p float= "left">
     Sophomore @ NSUT '23 COE💻. 🎗️ <br>
     BADMINTON ♥️❤️ <br>
@@ -18,7 +18,6 @@ Most used emoji - ❤️😂✌🏻💙</p></span>
     age++; <br>
     } <br>
     Most used emoji - ❤️😂✌🏻💙
-  <img src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="30%">
 </p>
 
 <!--
