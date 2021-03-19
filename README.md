@@ -9,8 +9,8 @@ age++; <br>
 } <br>
 Most used emoji - ❤️😂✌🏻💙</p></span>
 </div> -->
-<img align="right" src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="25%">
-<p align= "center">
+<img float="right" src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="25%">
+<p align= "left" margin-left="20px">
     Sophomore @ NSUT '23 COE💻. 🎗️ <br>
     BADMINTON ♥️❤️ <br>
     age =0; // as on year 2000 <br>
