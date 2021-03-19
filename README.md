@@ -1,5 +1,5 @@
 <!-- # Welcome 😎 -->
-<div>
+<!-- <div>
   <span style="align:center"><img width ="50%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/HelloWorld!.gif" alt= "Welcome"/></span>
   <span style="display: inline; float:left; "><p> Sophomore @ NSUT '23 COE💻. 🎗️ <br>
 BADMINTON ♥️❤️ <br>
@@ -8,8 +8,20 @@ while(date == 08 Aug) { <br>
 age++; <br>
 } <br>
 Most used emoji - ❤️😂✌🏻💙</p></span>
-</div>
+</div> -->
 
+<p align= "center">
+  <code>
+    Sophomore @ NSUT '23 COE💻. 🎗️ <br>
+    BADMINTON ♥️❤️ <br>
+    age =0; // as on year 2000 <br>
+    while(date == 08 Aug) { <br>
+    age++; <br>
+    } <br>
+    Most used emoji - ❤️😂✌🏻💙
+  </code>
+  <img src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg">
+</p>
 
 <!--
 <img width ="60%" src = "https://github.com/weirdrag08/weirdrag08/blob/main/animated-welcome-image-0112.gif" alt= "Welcome"/>
