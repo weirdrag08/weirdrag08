@@ -82,6 +82,9 @@ Here are some ideas to get you started:
 <!-- <code><img src="https://img.icons8.com/color/64/000000/react-native.png"/></code> -->
 <!-- <code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code> -->
 <p align ="center">
+  <a href="mailto:anand.aditya0803@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
@@ -97,8 +100,8 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/profile.php?id=100007799649164">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="mailto:anand.aditya0803@gmail.com/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://www.youtube.com/channel/UCssGMYRs2yc43FwSXR98MbA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
   </a>
 </p>
   
