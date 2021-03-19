@@ -81,3 +81,21 @@ Here are some ideas to get you started:
 <h2>Contact Me?</h2>
 <!-- <code><img src="https://img.icons8.com/color/64/000000/react-native.png"/></code> -->
 <!-- <code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code> -->
+<p align ="center">
+  <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="https://github.com/weirdrag08">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  </a>
+  <a href="https://twitter.com/anandAd98670736">
+    <img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+  
