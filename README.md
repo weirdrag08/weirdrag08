@@ -111,26 +111,32 @@ Here are some ideas to get you started:
 <br>
 
 <p align ="center">
-  <a href="mailto:anand.aditya0803@gmail.com/">
-    <img src="https://github.com/weirdrag08/weirdrag08/blob/main/gmail.png" alt="Gmail">
+   <a href="https://github.com/weirdrag08">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width ="10%" alt="Github">
   </a>
-  <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/">
+   <a href="https://www.hackerrank.com/anand_aditya0803">
+    <img src="https://github.com/weirdrag08/weirdrag08/blob/main/hackerrank.png" alt="Hackerrank">
+  </a>
+    <a href="https://leetcode.com/fastrail08/">
+    <img src="https://github.com/weirdrag08/weirdrag08/blob/main/leetcode.png" alt="Leetcode">
+  </a>
+   <a href="https://www.linkedin.com/in/aditya-anand-ab47001a9/">
     <img src="https://github.com/weirdrag08/weirdrag08/blob/main/linkedin.png" alt="Linkedin">
-  </a>
-  <a href="https://github.com/weirdrag08">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
   <a href="https://twitter.com/anandAd98670736">
     <img src="https://github.com/weirdrag08/weirdrag08/blob/main/twitter.png" alt="Twitter">
   </a>
-  <a href="https://www.instagram.com/_adityaanand00_/">
+  <a href="https://www.qwiklabs.com/public_profiles/19cbd967-afda-481e-b453-8992e792755a">
+    <img src="https://github.com/weirdrag08/weirdrag08/blob/main/google_cloud_platform.png" alt="Google Cloud">
+  </a>
+ <a href="https://www.youtube.com/channel/UCssGMYRs2yc43FwSXR98MbA">
+    <img src="https://github.com/weirdrag08/weirdrag08/blob/main/youtube.png" alt="Youtube">
+  </a>
+ <a href="https://www.instagram.com/_adityaanand00_/">
     <img src="https://github.com/weirdrag08/weirdrag08/blob/main/instagram.png" alt="Instagram">
   </a>
-<!--   <a href="https://www.facebook.com/profile.php?id=100007799649164">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a> -->
-  <a href="https://www.youtube.com/channel/UCssGMYRs2yc43FwSXR98MbA">
-    <img src="https://github.com/weirdrag08/weirdrag08/blob/main/youtube.png" alt="Youtube">
+ <a href="mailto:anand.aditya0803@gmail.com/">
+    <img src="https://github.com/weirdrag08/weirdrag08/blob/main/gmail.png" alt="Gmail">
   </a>
 </p>
   
