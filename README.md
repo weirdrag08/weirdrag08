@@ -14,7 +14,6 @@ Hello, I am **Aditya Anand**! I am a coding enthusiast pusruing B.Tech in Comput
 
 <br>
 
-## More About Me
 <img align="right" src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="20%">
 <p align= "left">
     &nbsp;&nbsp;&nbsp;&nbsp; Sophomore @ NSUT '23 COE💻. 🎗️ <br>
