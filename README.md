@@ -12,6 +12,7 @@ Most used emoji - ❤️😂✌🏻💙</p></span>
 # About Me
 Hello, I am Aditya Anand! I am a coding enthusiast pusruing B.Tech in Computer Science Engineering from Netaji Subhas University of Technology. I am an active open source contributor and a Web Development & Desigining intern at The Sparks Foundation. My interests are in Programming of Data-Structures & Algorithms & Front End Engineering. 
 
+<br>
 
 ## More About Me
 <img align="right" src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="20%">
@@ -63,6 +64,22 @@ Here are some ideas to get you started:
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weirdrag08&theme=vision-friendly-dark)
 
+<br>
+<br>
+<br>
+
+
+
+- 🔭 **Member** at DSC NSUT
+- 🌱 **Currently learning** React JS
+- 💻 *Competitive Programmer*
+- 💬 Discuss with me about anything related to tech
+- ✨ **Contributed To** : CROSS Winter Of Code, GirlScript Summer Of Code, The Sparks Foundation, Developer Student Club, JP Morgan Chase Virtual Experience
+- 😄 Pronouns: He/ Him
+
+
+
+<br>
 <br>
 <br>
 <br>
