@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
 <hr>
 <br>
 <h2>Contributions:</h2>
