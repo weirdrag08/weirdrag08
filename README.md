@@ -16,13 +16,13 @@ Hello, I am Aditya Anand! I am a coding enthusiast pusruing B.Tech in Computer S
 ## More About Me
 <img align="right" src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="25%">
 <p align= "left">
-    &nbsp; Sophomore @ NSUT '23 COE💻. 🎗️ <br>
-    &nbsp; BADMINTON ♥️❤️ <br>
-    &nbsp; age = 0; // as on year 2000 <br>
-    &nbsp; while(date == 08 Aug) { <br>
-    &nbsp; &nbsp; age++; <br>
-    &nbsp; } <br>
-    &nbsp; Most used emoji - ❤️😂✌🏻💙
+    &nbsp;&nbsp;&nbsp;&nbsp; Sophomore @ NSUT '23 COE💻. 🎗️ <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; BADMINTON ♥️❤️ <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; age = 0; // as on year 2000 <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; while(date == 08 Aug) { <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; age++; <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; } <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; Most used emoji - ❤️😂✌🏻💙
 </p>
 
 <!--
