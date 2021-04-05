@@ -9,15 +9,20 @@ age++; <br>
 } <br>
 Most used emoji - ❤️😂✌🏻💙</p></span>
 </div> -->
+# About Me
+Hello, I am Aditya Anand! I am a coding enthusiast pusruing B.Tech in Computer Science Engineering from Netaji Subhas University of Technology. I am an active open source contributor and a Web Development & Desigining intern at The Sparks Foundation. My interests are in Programming of Data-Structures & Algorithms & Front End Engineering. 
+
+
+## More About Me
 <img align="right" src= "https://github.com/weirdrag08/weirdrag08/blob/main/gamer.svg" width="25%">
 <p align= "left">
-    Sophomore @ NSUT '23 COE💻. 🎗️ <br>
-    BADMINTON ♥️❤️ <br>
-    age =0; // as on year 2000 <br>
-    while(date == 08 Aug) { <br>
-    age++; <br>
-    } <br>
-    Most used emoji - ❤️😂✌🏻💙
+    &nbsp; Sophomore @ NSUT '23 COE💻. 🎗️ <br>
+    &nbsp; BADMINTON ♥️❤️ <br>
+    &nbsp; age = 0; // as on year 2000 <br>
+    &nbsp; while(date == 08 Aug) { <br>
+    &nbsp; &nbsp; age++; <br>
+    &nbsp; } <br>
+    &nbsp; Most used emoji - ❤️😂✌🏻💙
 </p>
 
 <!--
