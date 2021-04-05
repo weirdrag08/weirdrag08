@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api?username=weirdrag08&show_icons=true&theme=merko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=weirdrag08&show_icons=true&theme=merko" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrag08&langs_count=10&theme=merko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrag08&langs_count=10&theme=merko" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrag08&langs_count=10&theme=merko&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrag08&langs_count=10&theme=merko&layout=compact" />
 </a>
 
 <br>
@@ -77,12 +77,9 @@ Here are some ideas to get you started:
 - ✨ **Contributed To** : CROSS Winter Of Code, GirlScript Summer Of Code, The Sparks Foundation, Developer Student Club, JP Morgan Chase Virtual Experience
 - 😄 Pronouns: He/ Him
 
+<br>
+<br>
 
-
-<br>
-<br>
-<br>
-<br>
 <h2>Technical Skills</h2>
 
 <p align ="center">
@@ -100,9 +97,10 @@ Here are some ideas to get you started:
   <code><img src="https://img.icons8.com/color/48/fa314a/object.png"/></code>
 </p>
 
-
-
+<br>
 <hr>
+<br>
+
 <h2>Contact Me?</h2>
 <!-- <code><img src="https://img.icons8.com/color/64/000000/react-native.png"/></code> -->
 <!-- <code><img src="https://img.icons8.com/ios-filled/50/fa314a/database-restore.png"/></code> -->
