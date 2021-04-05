@@ -9,8 +9,8 @@ age++; <br>
 } <br>
 Most used emoji - ❤️😂✌🏻💙</p></span>
 </div> -->
-# About Me
-Hello, I am Aditya Anand! I am a coding enthusiast pusruing B.Tech in Computer Science Engineering from Netaji Subhas University of Technology. I am an active open source contributor and a Web Development & Desigining intern at The Sparks Foundation. My interests are in Programming of Data-Structures & Algorithms & Front End Engineering. 
+
+Hello, I am **Aditya Anand**! I am a coding enthusiast pusruing B.Tech in Computer Science Engineering from Netaji Subhas University of Technology. I am an active open source contributor and a Web Development & Desigining intern at The Sparks Foundation. My interests are in Programming of Data-Structures & Algorithms & Front End Engineering. 
 
 <br>
 
