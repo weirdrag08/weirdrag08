@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 - 🔭 **Member** at DSC NSUT
 - 🌱 **Currently learning** React JS
-- 💻 *Competitive Programmer*
+- 💻 *Microsoft Learn Student Ambassador*
 - 💬 Discuss with me about anything related to tech
 - ✨ **Contributed To** : CROSS Winter Of Code, GirlScript Summer Of Code, The Sparks Foundation, Developer Student Club, JP Morgan Chase Virtual Experience
 - 😄 Pronouns: He/ Him
